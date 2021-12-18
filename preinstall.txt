@@ -1,0 +1,35 @@
+npm install react-router-dom@5
+npm install --save react-redux
+npm install --save redux-form
+npm install --save json-server
+npm install --save axios redux-thunk
+npm install --save lodash
+npm install --save node-media-server
+npm install --save flv.js
+npm install -g firebase-tools
+
+
+
+vercel hosted- https://client-henna.vercel.app/
+firebase hosted- https://crowdcoin-88c0c.web.app
+
+
+video player setting
+------------------------
+https://github.com/illuspas/Node-Media-Server
+
+http://localhost:3000
+
+
+run api data cmd- npm start
+OAuth credentials
+client id- 7740877367-7ofgkkvkl0uo0ao3rekilfp746lukoc3.apps.googleusercontent.com
+
+gapi.auth2.getAuthInstance().signOut()
+gapi.auth2.getAuthInstance().signIn()
+
+firebase installation:
+npm install -g firabase-tools
+firebase login
+firebase init
+

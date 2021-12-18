@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "this is skg",
+      "description": "skg",
+      "id": 1
+    },
+    {
+      "title": "I created this stream",
+      "description": "This was made by me!",
+      "id": 2
+    },
+    {
+      "title": "this is skg",
+      "description": "Swatantra",
+      "userId": "102553648888593397983",
+      "id": 11
+    },
+    {
+      "title": "unexpected behavior",
+      "description": "didn't expect that!",
+      "userId": "102553648888593397983",
+      "id": 12
+    }
+  ]
+}
